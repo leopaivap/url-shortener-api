@@ -1,4 +1,4 @@
-package com.rocketseat.redirectUrlShortner;
+package com.rocketseat.redirectUrlShortener;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
